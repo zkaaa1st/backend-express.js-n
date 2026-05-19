@@ -21,4 +21,4 @@
 - Integrasi dengan database (MongoDB / PostgreSQL / MySQL)
 - Environment variables dengan dotenv
 
-btw itu yang php cuman untuk generating hash password ya guys
+btw languanges nya itu yang php cuman untuk generating hash password ya guys
