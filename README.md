@@ -14,3 +14,11 @@
 ┣ 📜 package.json
 ┗ 📜 server.js # Entry point untuk menjalankan server
 
+### ✨ Fitur Utama
+- Autentikasi & otorisasi (JWT)
+- CRUD data (misal: pengguna, artikel, produk)
+- Validasi request dengan Joi atau express-validator
+- Logging dengan Morgan
+- Keamanan dasar (helmet, CORS, rate limiting)
+- Integrasi dengan database (MongoDB / PostgreSQL / MySQL)
+- Environment variables dengan dotenv
