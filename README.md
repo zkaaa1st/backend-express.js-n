@@ -8,8 +8,7 @@
 ┃ ┣ 📂 routes # Definisi endpoint API
 ┃ ┣ 📂 seeders # Data Uji Coba
 ┃  
-┣ 📜 .env.example # Contoh variabel lingkungan
-┣ 📜 .gitignore
+┣ 📜 .env.example # Contoh 
 ┣ 📜 package.json
 ┗ 📜 server.js # Entry point untuk menjalankan server
 
