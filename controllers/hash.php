@@ -1,8 +1,8 @@
 fitur ini digunakan untuk generating hash 
 
 <?php
-$password = '12345678';
+$password = 'isi';
 $hash = password_hash($password, PASSWORD_DEFAULT);
-echo "Hash untuk password '12345678':<br>";
+echo "Hash untuk password 'isi':<br>";
 echo "<strong>" . $hash . "</strong>";
 ?>
