@@ -6,9 +6,8 @@
 ┃ ┣ 📂 middlewares # Middleware (auth, upload, error handler)
 ┃ ┣ 📂 models # Model data (Mongoose / Sequelize)
 ┃ ┣ 📂 routes # Definisi endpoint API
-┃ ┣ 📂 services # Logika bisnis / interaksi dengan model
-┃ ┣ 📂 utils # Helper functions, constants, validators
-┃ ┗ 📂 app.js # Inisialisasi Express dan middleware global
+┃ ┣ 📂 seeders # Data Uji Coba
+┃  
 ┣ 📜 .env.example # Contoh variabel lingkungan
 ┣ 📜 .gitignore
 ┣ 📜 package.json
