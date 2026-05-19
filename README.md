@@ -20,3 +20,5 @@
 - Keamanan dasar (helmet, CORS, rate limiting)
 - Integrasi dengan database (MongoDB / PostgreSQL / MySQL)
 - Environment variables dengan dotenv
+
+btw itu yang php cuman untuk generating hash password ya guys
